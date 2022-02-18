@@ -19,10 +19,10 @@
   https://github.com/Azure/Azure-Sentinel/blob/master/DataConnectors/AWS-S3/AwsRequiredPolicies.md
 	
 5. add specific policy to SQS
-	https://github.com/Azure/Azure-Sentinel/blob/master/DataConnectors/AWS-S3/AwsRequiredPolicies.md
+https://github.com/Azure/Azure-Sentinel/blob/master/DataConnectors/AWS-S3/AwsRequiredPolicies.md
   
 6. enable SQS notification on S3
-  https://docs.aws.amazon.com/AmazonS3/latest/userguide/enable-event-notifications.html
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/enable-event-notifications.html
 	
 7. get assumed role ARN and SQS URL and finish AWS connector setup on Azure portal
   
